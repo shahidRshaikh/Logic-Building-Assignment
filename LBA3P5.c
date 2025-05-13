@@ -1,0 +1,1 @@
+// Accept one character from user and  check wheather is vowel or not.
