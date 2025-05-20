@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA8P1.c
 //  Description :   To calculate area of cirle
-//  Athor :         Omkar Santosh Wagh
+//  Athor :         Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
