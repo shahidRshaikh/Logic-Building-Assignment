@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA9P5.c
 //  Description :   Accept number from user and check frequency of digits which less than 6
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
