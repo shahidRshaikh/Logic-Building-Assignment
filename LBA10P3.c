@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA10P3.c
 //  Description :   Accept number from user and return the count of Digits Between 3 and 7
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
