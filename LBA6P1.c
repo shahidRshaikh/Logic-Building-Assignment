@@ -7,7 +7,7 @@
 //
 //  File Namne :   LBA6P1.c
 //  Description :  
-//  Author :       Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :         14/05/2025
 //
 /////////////////////////////////////////////////////////////////////////
