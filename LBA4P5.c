@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA4P5.c
 //  Description :   used to calculate Diffence between summation of all factors and non factors
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          13/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////////
