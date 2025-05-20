@@ -4,7 +4,7 @@
 //
 //  File Name :    LBA5P2.c
 //  Description :  Accept Number from user and print numbers tiil that number
-//  Author :       Omkar Santosh wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :         14/05/2025
 ///////////////////////////////////////////////////////////////////////////////
 
