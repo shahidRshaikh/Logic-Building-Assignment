@@ -4,7 +4,7 @@
 //  
 //  File Name :   LBA7P2.c
 //  Description : Accept amount in US doollor and return indian currency
-//  Author :      Omkar Santosh Wagh
+//  Author :       Shahid Rajjak Shaikh
 //  Date :        14/05/2025
 //
 //////////////////////////////////////////////////////////////////////////
