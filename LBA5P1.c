@@ -4,7 +4,7 @@
 //
 // File Name :    LBA5P1.c
 // Description :  used to Display $ and * on screen 
-// Author :       Omkar Santosh Wagh
+// Author :       Shahid Rajjak Shaikh
 // Date :         14/05/2025
 //
 ///////////////////////////////////////////////////////////////////////
