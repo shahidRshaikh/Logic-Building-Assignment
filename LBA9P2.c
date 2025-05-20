@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA9P2.c
 //  Description :   Accept number from user and check wheather it contains 0
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
