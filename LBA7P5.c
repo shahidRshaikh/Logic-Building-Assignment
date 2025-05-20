@@ -4,7 +4,7 @@
 //  
 //  File Name :   LBA7P5.c
 //  Description : program to find difference between Even and Odd Factorial
-//  Author :      Omkar Santosh Wagh
+//  Author :       Shahid Rajjak Shaikh
 //  Date :        15/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
