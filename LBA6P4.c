@@ -4,7 +4,7 @@
 //
 //  File Namne :   LBA6P4.c
 //  Description :  accept number from user and display its table
-//  Author :       Omkar Santosh Wagh
+//  Author :       Shahid Rajjak Shaikh
 //  Date :         14/05/2025
 //
 /////////////////////////////////////////////////////////////////////////
