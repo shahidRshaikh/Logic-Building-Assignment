@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA9P4.c
 //  Description :   Accept number from user and check frequency of 4
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
