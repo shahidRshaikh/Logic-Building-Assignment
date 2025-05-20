@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA10P5.c
 //  Description :   Accept number from user and return the difference between summation of even digits and summation of odd digits
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
