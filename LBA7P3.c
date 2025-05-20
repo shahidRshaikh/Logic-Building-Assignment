@@ -4,7 +4,7 @@
 //  
 //  File Name :   LBA7P3.c
 //  Description : program to find even factorial of given number
-//  Author :      Omkar Santosh Wagh
+//  Author :       Shahid Rajjak Shaikh
 //  Date :        15/05/2025
 //
 //////////////////////////////////////////////////////////////////////////
