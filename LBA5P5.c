@@ -4,7 +4,7 @@
 //  
 //  File Name :     LBA5P5.c
 //  Description :   accept N and Print first 5 multiples of N
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          14/05/2025
 //
 /////////////////////////////////////////////////////////////////////////////////
