@@ -4,7 +4,7 @@
 //  
 //  File Name :     LBA5P4.c
 //  Description :   Accepts number from user and print all odd numbers up to n
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          14/05/2025
 //
 /////////////////////////////////////////////////////////////////////////////////
