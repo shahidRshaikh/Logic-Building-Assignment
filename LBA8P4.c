@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA8P4.c
 //  Description :   convert square feet into square meter
-//  Athor :         Omkar Santosh Wagh
+//  Athor :          Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
