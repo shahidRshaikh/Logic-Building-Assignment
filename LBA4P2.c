@@ -4,7 +4,7 @@
 //  
 //  File Name :      LBA4P2.c
 //  Description :    used to display factors in decreasing order
-//  Author :         Omkar Santosh Wagh
+//  Author :          Shahid Rajjak Shaikh
 //  Date :           13/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
