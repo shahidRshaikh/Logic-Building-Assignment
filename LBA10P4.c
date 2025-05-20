@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA10P4.c
 //  Description :   Accept number from user and return the Multiplication of All Digits
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
