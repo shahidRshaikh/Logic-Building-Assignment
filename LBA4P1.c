@@ -4,7 +4,7 @@
 //  
 //  File Name :      LBA4P1.c
 //  Description :    used to display its multiplication of factors
-//  Author :         Omkar Santosh Wagh
+//  Author :          Shahid Rajjak Shaikh
 //  Date :           13/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
