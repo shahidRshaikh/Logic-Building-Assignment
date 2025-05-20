@@ -8,7 +8,7 @@
 //
 //  File Namne :   LBA6P5.c
 //  Description :  accept number from and display pattern
-//  Author :       Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :         14/05/2025
 //
 ////////////////////////////////////////////////////////////////////////////
