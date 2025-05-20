@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA8P3.c
 //  Description :   convert kilometre into metre
-//  Athor :         Omkar Santosh Wagh
+//  Athor :          Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
