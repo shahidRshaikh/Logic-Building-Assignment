@@ -4,7 +4,7 @@
 //  
 //  File Name :   LBA7P4.c
 //  Description : program to find odd factorial of given number
-//  Author :      Omkar Santosh Wagh
+//  Author :       Shahid Rajjak Shaikh
 //  Date :        15/05/2025
 //
 //////////////////////////////////////////////////////////////////////////
