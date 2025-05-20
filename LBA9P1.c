@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA9P1.c
 //  Description :   Accept number from user and display its digitd in reverse
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          15/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
