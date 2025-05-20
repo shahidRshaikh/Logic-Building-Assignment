@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA10P1.c
 //  Description :   Accept number from user and return the count of even digits
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////////////////////
