@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA4P4.c
 //  Description :   used to calculate summation of all non factors
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          13/05/2025
 //
 ////////////////////////////////////////////////////////////////////////
