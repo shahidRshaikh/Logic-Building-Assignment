@@ -4,7 +4,7 @@
 //
 //  File Name :     LBA9P3.c
 //  Description :   Accept number from user and check frequency of 2
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          16/05/2025
 //
 //////////////////////////////////////////////////////////////////////////////
