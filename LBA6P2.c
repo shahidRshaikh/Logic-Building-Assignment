@@ -4,7 +4,7 @@
 //
 //  File Namne :   LBA6P2.c
 //  Description :  Accept single digit from user and print it into word
-//  Author :       Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :         14/05/2025
 //
 /////////////////////////////////////////////////////////////////////////
