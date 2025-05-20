@@ -4,7 +4,7 @@
 // 
 //  File Name :     LBA4P3.c
 //  Description :   used to display all non factors
-//  Author :        Omkar Santosh Wagh
+//  Author :        Shahid Rajjak Shaikh
 //  Date :          13/05/2025
 //
 ///////////////////////////////////////////////////////////////
