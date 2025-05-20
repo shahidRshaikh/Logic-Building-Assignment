@@ -4,7 +4,7 @@
 //  
 //  File Name :     LBA5P3.c
 //  Description :   Accepts number from user and print its number line
-//  Author :        Omkar Santosh Wagh
+//  Author :         Shahid Rajjak Shaikh
 //  Date :          14/05/2025
 //
 ///////////////////////////////////////////////////////////////////////
